@@ -1,0 +1,11 @@
+/Users/asiacarter/workspace/c#classes/bin/Debug/netcoreapp2.2/c#classes.deps.json
+/Users/asiacarter/workspace/c#classes/bin/Debug/netcoreapp2.2/c#classes.runtimeconfig.json
+/Users/asiacarter/workspace/c#classes/bin/Debug/netcoreapp2.2/c#classes.runtimeconfig.dev.json
+/Users/asiacarter/workspace/c#classes/bin/Debug/netcoreapp2.2/c#classes.dll
+/Users/asiacarter/workspace/c#classes/bin/Debug/netcoreapp2.2/c#classes.pdb
+/Users/asiacarter/workspace/c#classes/obj/Debug/netcoreapp2.2/c#classes.csprojAssemblyReference.cache
+/Users/asiacarter/workspace/c#classes/obj/Debug/netcoreapp2.2/c#classes.csproj.CoreCompileInputs.cache
+/Users/asiacarter/workspace/c#classes/obj/Debug/netcoreapp2.2/c#classes.AssemblyInfoInputs.cache
+/Users/asiacarter/workspace/c#classes/obj/Debug/netcoreapp2.2/c#classes.AssemblyInfo.cs
+/Users/asiacarter/workspace/c#classes/obj/Debug/netcoreapp2.2/c#classes.dll
+/Users/asiacarter/workspace/c#classes/obj/Debug/netcoreapp2.2/c#classes.pdb
